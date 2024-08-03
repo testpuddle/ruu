@@ -13,7 +13,7 @@ Participants complete real-world action requests made through a secure authentic
 
 However, by using a secure channel that provides confidentiality and authentication with previously authenticated participants to pass the action request signficantly strengthens the safeguard of requesting participants perform an action.  Using a secure out-of-band channel seperate from the video conference channel allows for real-time requests for action injections to be made with greater confidence to thwart masquerading.  If the person on the video completes the task, one can have confidence that they are indeed human and part of the previously authenticated group.
 
-Watch video overview here <https://youtu.be/7-e3Lzhy9dg>
+Watch video overview here <https://youtu.be/pPNMh7sSmGA?si=2N3jKNpNiZr-n1pV>
 
 ## Capabilities
 
